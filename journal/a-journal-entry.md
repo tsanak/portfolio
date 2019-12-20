@@ -5,14 +5,6 @@ author: Nichlas W. Andersen
 excerpt: Transitioning from Jquery to Vue.js
 
 ---
----
-title: Make your life easier with Vue.js
-published: true
-description: Make your life easier with Vue.js
-tags: vue, javascript, jquery
-cover_image: https://thepracticaldev.s3.amazonaws.com/i/plpcloc70rl19ksaze99.png
----
-
 ## Context
 The purpose of this mini project is to showcase the value of a modern frontend framework. In this mini project we will build the same app twice; once with Jquery and once with Vue.
 This is a very basic application (no routing, no store). Also this is the first post I have ever written so please excuse any typos and syntactical errors 🙂.
